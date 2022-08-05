@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Hello sir, your deployment is successful</h1>
+    <style>
+
+      body {
+        background-image: url("/Users/pratik/Downloads/bmw.jpeg");
+        background-repeat: no-repeat;
+        background-size: cover;
+      }
+
+    </style>
+</body>
+</html>
